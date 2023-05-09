@@ -35,3 +35,10 @@ Preprocessing:
 
 Training and results: 
 - medi_final.ipynb handles training and performance metrics 
+
+CNN results:
+![image](https://user-images.githubusercontent.com/112778741/236985933-a85cbf0c-c4ce-420c-86d4-bcc06f426428.png)
+![image](https://user-images.githubusercontent.com/112778741/236985985-d50431b1-cb50-4ade-ad97-7a2cf19aa80d.png)
+
+LSTM results: 
+
