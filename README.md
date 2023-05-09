@@ -41,4 +41,6 @@ CNN results:
 ![image](https://user-images.githubusercontent.com/112778741/236985985-d50431b1-cb50-4ade-ad97-7a2cf19aa80d.png)
 
 LSTM results: 
+![image](https://user-images.githubusercontent.com/112778741/236986276-1eca16ab-62e9-48b4-a557-17bd68f1a9e3.png)
+![image](https://user-images.githubusercontent.com/112778741/236986339-81645ce9-cbcb-4245-9355-0243f371a1f6.png)
 
