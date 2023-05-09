@@ -34,6 +34,7 @@ Preprocessing:
 - build_dataset.ipynb - This handles construction of the train set. Pruned chartevents are pivoted and assigned to ICU stays. ICD9 Diagnoses are grouped into broad categories and assigned to patient hospital admissions. Label vector is read and assigned to the dataset.
 
 Training and results: 
+- medi_base handles baseline models KNN, RF, LogReg
 - medi_final.ipynb handles training and performance metrics 
 
 CNN results:
