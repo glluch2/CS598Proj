@@ -27,7 +27,7 @@ This repo contains a number of notebooks. Note that the MIMIC-III dataset is use
 Preprocessing: 
 - assign_class_labels.ipynb - This notebook handles the computation of target labels for ICU cases. Once labels are assigned, they are saved for later merging with the train set.
 - prune_chartevents.ipynb - This handles pruning of the considerably large CHARTEVENTS.csv from the source dataset. Chartevents are filtered according to certain ITEMIDs mentioned in the paper. Additionaly, only the last 48 hours of chart events records are kept for each ICU stay. This reduces the size of the dataset considerably.
-- build_dataset.ipynb - This handles construction of the train set. Pruned chartevents are pivoted and assigned to ICU stays. ICD9 Diagnoses are grouped into broad categories and assigned to patient hospital admissions. Label vector is read and merged and the results are saved for use by models. 
+- build_dataset.ipynb - This handles construction of the train set. Pruned chartevents are pivoted and assigned to ICU stays. ICD9 Diagnoses are grouped into broad categories and assigned to patient hospital admissions. Label vector is read and assigned to the dataset.
 
 Training and results: 
 - 
